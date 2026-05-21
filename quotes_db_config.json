@@ -1,0 +1,13 @@
+{
+  "name": "savori-quotes",
+  "description": "Internal procurement and supplier quotes for spice sourcing.",
+  "columns": [
+    {"name": "supplier_name", "type": "string"},
+    {"name": "item", "type": "string"},
+    {"name": "unit_price", "type": "string"},
+    {"name": "moq", "type": "string"},
+    {"name": "lead_time", "type": "string"}
+  ],
+  "publicReads": false,
+  "publicWrites": false
+}

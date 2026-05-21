@@ -1,0 +1,23 @@
+[
+    {
+        "supplier_name": "Monterey Bay Herb Co.",
+        "item": "Bulk Cumin (Organic)",
+        "unit_price": "$8.80/lb",
+        "moq": "$250",
+        "lead_time": "2 days"
+    },
+    {
+        "supplier_name": "Burlap & Barrel",
+        "item": "Silk Chili",
+        "unit_price": "$40.00/lb",
+        "moq": "$100",
+        "lead_time": "3-5 days"
+    },
+    {
+        "supplier_name": "San Francisco Herb Co.",
+        "item": "Szechuan Peppercorns",
+        "unit_price": "$32.12/lb",
+        "moq": "$100",
+        "lead_time": "2-3 days"
+    }
+]

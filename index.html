@@ -6,7 +6,7 @@
     <title>Savori | Global Flavor, Zero Waste</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;500&family=Sora:wght@600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;500;700&family=Sora:wght@600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -32,15 +32,25 @@
                 <h1>Stop buying spice jars you'll only use once.</h1>
                 <p>Chef-curated international spice kits delivered to your door. Pre-portioned for one dinner, designed for zero waste.</p>
                 
-                <form id="waitlist-form" class="signup-form">
-                    <div class="form-group">
-                        <input type="email" id="email" placeholder="Enter your email" required>
-                        <button type="submit" id="submit-btn">Join the Waitlist</button>
+                <div id="signup-container">
+                    <form id="waitlist-form" class="signup-form">
+                        <div class="form-group">
+                            <input type="email" id="email" placeholder="Enter your email" required>
+                            <button type="submit" id="submit-btn">Join the Waitlist</button>
+                        </div>
+                    </form>
+                    <div id="referral-box" class="referral-box hidden">
+                        <p class="success-msg">Welcome to the inner circle!</p>
+                        <p>Invite friends and get your first kit free!</p>
+                        <div class="share-link">
+                            <input type="text" readonly id="ref-link">
+                            <button id="copy-btn">Copy</button>
+                        </div>
                     </div>
-                    <p class="form-status" id="form-status"></p>
-                </form>
+                </div>
+                <p class="form-status" id="form-status"></p>
                 <div class="social-proof">
-                    <span id="waitlist-count">--</span> foodies already on the list
+                    <span id="waitlist-count">142</span> foodies already on the list
                 </div>
             </div>
             <div class="hero-visual">
