@@ -1,0 +1,2 @@
+// This file is used to update the CONFIG in script.js after the DB is created.
+// In a real automated pipeline, this would be injected.
