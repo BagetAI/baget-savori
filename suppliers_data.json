@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Monterey Bay Herb Co.",
+        "email": "sales@herbco.com",
+        "MOQ": "$250",
+        "location": "Watsonville, CA",
+        "organic_certified": "Yes"
+    },
+    {
+        "name": "Burlap & Barrel",
+        "email": "wholesale@burlapandbarrel.com",
+        "MOQ": "$100",
+        "location": "New York, NY",
+        "organic_certified": "Partially"
+    },
+    {
+        "name": "Recurve Solutions",
+        "email": "hello@recurvesolutions.com",
+        "MOQ": "0",
+        "location": "Calgary, AB",
+        "organic_certified": "No"
+    },
+    {
+        "name": "Action Pak, Inc.",
+        "email": "info@actionpakinc.com",
+        "MOQ": "5,000 units",
+        "location": "Bristol, PA",
+        "organic_certified": "SQF Certified"
+    },
+    {
+        "name": "ePac Flexibles",
+        "email": "quotes@epacflexibles.com",
+        "MOQ": "$800",
+        "location": "Global",
+        "organic_certified": "No"
+    },
+    {
+        "name": "The Spice Lab",
+        "email": "sales@thespicelab.com",
+        "MOQ": "$1,000",
+        "location": "Pompano Beach, FL",
+        "organic_certified": "SQF Certified"
+    },
+    {
+        "name": "Case Mason",
+        "email": "info@casemason.com",
+        "MOQ": "Flexible",
+        "location": "Baltimore, MD",
+        "organic_certified": "No"
+    },
+    {
+        "name": "Mountain Rose Herbs",
+        "email": "wholesale@mountainroseherbs.com",
+        "MOQ": "$100",
+        "location": "Eugene, OR",
+        "organic_certified": "Yes"
+    },
+    {
+        "name": "San Francisco Herb Co.",
+        "email": "info@sfherb.com",
+        "MOQ": "$100",
+        "location": "San Francisco, CA",
+        "organic_certified": "No"
+    },
+    {
+        "name": "The Spice House",
+        "email": "wholesale@thespicehouse.com",
+        "MOQ": "Inquiry required",
+        "location": "Chicago, IL",
+        "organic_certified": "No"
+    }
+]
